@@ -217,7 +217,7 @@ ul li a i {
     color: #FFF;
     font-size: 1.5rem;
     font-weight: 700;
-    padding-top: 50px;
+    padding-top: 70px;
 }
 
 .Copyright {
@@ -225,8 +225,11 @@ ul li a i {
     font-size: .9rem;
     font-weight: 700;
     padding: 4px 0px;
+
 }
 
-.footer-icon {
+.f-icon {
     color: white;
+    margin-left: 15px;
+
 }
