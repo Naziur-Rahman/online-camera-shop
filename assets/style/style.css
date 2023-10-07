@@ -32,6 +32,10 @@ ul li a {
     font-weight: 600;
 }
 
+ul li a i {
+    font-size: 30px;
+}
+
 .logo {
     color: #3A3A3A;
     font-size: 1.5rem;
@@ -42,7 +46,7 @@ ul li a {
 .banner-container {
     display: flex;
     margin: 0px 120px;
-    gap: 100px;
+    gap: 60px;
 }
 
 .banner-part1 {
@@ -84,4 +88,24 @@ ul li a {
     background: url(../images/Circle\ design.svg);
     width: 440px;
     height: 414px;
+}
+
+/* Sponsor section start */
+.sponsor {
+    margin: 100px 165px 0px 165px;
+
+}
+
+.sponsor-contant img {
+    margin: 0px 22px;
+    padding: 40px 0px;
+    justify-content: center;
+}
+
+/* Collection section start */
+.collection {}
+
+.card {
+    padding: 15px;
+    border-radius: 5px
 }
