@@ -1,0 +1,87 @@
+/* Global css style */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* Nav abr section style */
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 95px 120px 20px 120px;
+}
+
+nav ul {
+    display: flex;
+
+}
+
+nav ul li {
+    margin-right: 35px;
+
+}
+
+ul li a {
+    color: #3A3A3A;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.logo {
+    color: #3A3A3A;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+/* Banner section action */
+.banner-container {
+    display: flex;
+    margin: 0px 120px;
+    gap: 100px;
+}
+
+.banner-part1 {
+    margin-top: 145px;
+}
+
+.banner-part2 {
+    margin-top: 80px;
+}
+
+.banner-title {
+    color: #3A3A3A;
+    font-weight: 700;
+    font-size: 3.25rem;
+    line-height: 70px;
+}
+
+.title-details {
+    color: #3A3A3A;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-weight: 700;
+    font-size: 1rem;
+    border-radius: 41px;
+    background: #E02C6D;
+    border: 0;
+    padding: 10px 24px;
+    margin-top: 25px;
+
+
+}
+
+.camara {
+    background: url(../images/Circle\ design.svg);
+    width: 440px;
+    height: 414px;
+}
